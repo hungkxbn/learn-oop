@@ -62,8 +62,6 @@ public class NhanVien
     public static void main(String[] args)
     {
         NhanVien t = new NhanVien("hung", 0.6, 3000);
-        inTTin();
+        t.inTTin();
     }
-
-
 }
