@@ -11,7 +11,7 @@ public class TestNV {
             String temp = null;
             double hs = 0;
             double lcb = 0;
-            cls[i] = new NhanVien(temp, hs, lcb);
+            cls[i] = new NhanVien();
             System.out.println("TenNhanVien ");
             temp = scanner.next();
             cls[i].setName(temp);

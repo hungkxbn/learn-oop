@@ -4,12 +4,12 @@ public class NhanVien
     private double luongCoBan;
     private double heSoLuong;
 
-    public NhanVien(String name, double luongCoBan, double heSoLuong)
+    /*public NhanVien(String name, double luongCoBan, double heSoLuong)
     {
         this.name = name;
         this.luongCoBan = luongCoBan;
         this.heSoLuong = heSoLuong;
-    }
+    }*/
 
     public String getName()
     {
@@ -61,7 +61,7 @@ public class NhanVien
 
     public static void main(String[] args)
     {
-        NhanVien t = new NhanVien("hung", 0.6, 3000);
+        NhanVien t = new NhanVien();
         t.inTTin();
     }
 }
