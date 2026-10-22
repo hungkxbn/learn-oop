@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class C_k_n {
     static final long MOD = 1_000_000_007L;
 

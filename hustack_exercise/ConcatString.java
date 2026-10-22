@@ -1,4 +1,4 @@
-package hustack_exercise;
+
 import java.util.*;
 
 public class ConcatString { 
