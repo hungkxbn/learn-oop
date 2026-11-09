@@ -1,6 +1,4 @@
-package gehihi_exercise;
 import java.util.Scanner;
-import java.util.ArrayList;
 
 class Student{
     private String id;

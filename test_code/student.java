@@ -1,4 +1,3 @@
-package test_code;
 public class student
 {
     private int year;

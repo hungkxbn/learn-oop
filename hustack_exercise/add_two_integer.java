@@ -1,5 +1,3 @@
-package hustack_exercise;
-
 import java.util.*;
 import java.math.BigInteger;
 

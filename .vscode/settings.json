@@ -2,6 +2,10 @@
   "java.project.sourcePaths": [
     "hustack_exercise",
     "test_code",
-    "gehihi_exercise"
-  ]
+    "gehihi_exercise",
+    "UML_exercise1"
+  ],
+  "java.validate.enabled": false,
+  "problems.decorations.enabled": false,
+  "java.errors.unusedLocalVariable": "ignore"
 }
